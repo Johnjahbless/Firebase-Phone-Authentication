@@ -56,6 +56,7 @@ The secure platform in the case of Firebase phone number authentication is the u
 
 
 
+![Firebase-Phone-Authentication](https://user-images.githubusercontent.com/32623706/99823770-133e5a00-2b55-11eb-9a6c-b8873282b03f.png)
 
 
 
